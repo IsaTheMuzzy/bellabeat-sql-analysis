@@ -1,0 +1,2 @@
+-- SQL Code for Analyzing Bellabeat Daily Activity Data
+-- Includes queries for activity levels, calorie burn, and user segmentation
